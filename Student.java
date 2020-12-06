@@ -22,7 +22,7 @@ public class Student {
     LinkedList<Student> class2024 = new LinkedList<Student>();
 
     /***
-     * Default constructor of the class used to instantiate the class
+     * Default constructor of the class used to initialize the class
      */
     public Student() {
     }
